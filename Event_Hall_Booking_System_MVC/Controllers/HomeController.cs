@@ -8,6 +8,7 @@ using System.Data.Entity;
 
 namespace Event_Hall_Booking_System_MVC.Controllers
 {
+    //demo changes
     public class HomeController : Controller
     {
         // GET: Home
